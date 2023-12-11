@@ -3,10 +3,17 @@
 	<title>Lista de reproducción</title>
 	<trackList>
 		<track>
+			<location>file:///C:/Users/Juan%20Pablo/Downloads/DAM/Programacion/RetoDiciembre/RetoDiciembreVLC/songs/Megalovania.mp3</location>
+			<duration>313176</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
 			<location>file:///C:/Users/Juan%20Pablo/Downloads/DAM/Programacion/RetoDiciembre/RetoDiciembreVLC/songs/2000IQ.mp3</location>
 			<duration>32520</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>0</vlc:id>
+				<vlc:id>1</vlc:id>
 				<vlc:option>file-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -15,7 +22,7 @@
 			<title>x2mate.com - Among Us Drip Theme Song Original (Among Us Trap Remix / Amogus Meme Music)</title>
 			<duration>72584</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
+				<vlc:id>2</vlc:id>
 				<vlc:option>file-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -23,7 +30,7 @@
 			<location>file:///C:/Users/Juan%20Pablo/Downloads/DAM/Programacion/RetoDiciembre/RetoDiciembreVLC/songs/ChingChengHangChing.mp3</location>
 			<duration>24984</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>2</vlc:id>
+				<vlc:id>3</vlc:id>
 				<vlc:option>file-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -31,7 +38,7 @@
 			<location>file:///C:/Users/Juan%20Pablo/Downloads/DAM/Programacion/RetoDiciembre/RetoDiciembreVLC/songs/Circo.mp3</location>
 			<duration>153576</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>3</vlc:id>
+				<vlc:id>4</vlc:id>
 				<vlc:option>file-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -39,7 +46,7 @@
 			<location>file:///C:/Users/Juan%20Pablo/Downloads/DAM/Programacion/RetoDiciembre/RetoDiciembreVLC/songs/CucarachaConAutotune.mp3</location>
 			<duration>39696</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>4</vlc:id>
+				<vlc:id>5</vlc:id>
 				<vlc:option>file-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -47,7 +54,7 @@
 			<location>file:///C:/Users/Juan%20Pablo/Downloads/DAM/Programacion/RetoDiciembre/RetoDiciembreVLC/songs/DoomEternal.mp3</location>
 			<duration>412752</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>5</vlc:id>
+				<vlc:id>6</vlc:id>
 				<vlc:option>file-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -55,7 +62,7 @@
 			<location>file:///C:/Users/Juan%20Pablo/Downloads/DAM/Programacion/RetoDiciembre/RetoDiciembreVLC/songs/Guinomo.mp3</location>
 			<duration>70056</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>6</vlc:id>
+				<vlc:id>7</vlc:id>
 				<vlc:option>file-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -63,7 +70,7 @@
 			<location>file:///C:/Users/Juan%20Pablo/Downloads/DAM/Programacion/RetoDiciembre/RetoDiciembreVLC/songs/HarHar.mp3</location>
 			<duration>35160</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>7</vlc:id>
+				<vlc:id>8</vlc:id>
 				<vlc:option>file-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -71,7 +78,7 @@
 			<location>file:///C:/Users/Juan%20Pablo/Downloads/DAM/Programacion/RetoDiciembre/RetoDiciembreVLC/songs/JoshHutcherson.mp3</location>
 			<duration>92904</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>8</vlc:id>
+				<vlc:id>9</vlc:id>
 				<vlc:option>file-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -79,7 +86,7 @@
 			<location>file:///C:/Users/Juan%20Pablo/Downloads/DAM/Programacion/RetoDiciembre/RetoDiciembreVLC/songs/LoLogro.mp3</location>
 			<duration>13440</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>9</vlc:id>
+				<vlc:id>10</vlc:id>
 				<vlc:option>file-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -87,7 +94,7 @@
 			<location>file:///C:/Users/Juan%20Pablo/Downloads/DAM/Programacion/RetoDiciembre/RetoDiciembreVLC/songs/Megalovania.mp3</location>
 			<duration>313176</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>10</vlc:id>
+				<vlc:id>11</vlc:id>
 				<vlc:option>file-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -95,7 +102,7 @@
 			<location>file:///C:/Users/Juan%20Pablo/Downloads/DAM/Programacion/RetoDiciembre/RetoDiciembreVLC/songs/MrBeast.mp3</location>
 			<duration>113592</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>11</vlc:id>
+				<vlc:id>12</vlc:id>
 				<vlc:option>file-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -104,7 +111,7 @@
 			<title>y2meta.com - Rick Astley - Never Gonna Give You Up (Official Music Video)</title>
 			<duration>143936</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>12</vlc:id>
+				<vlc:id>13</vlc:id>
 				<vlc:option>file-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -112,7 +119,7 @@
 			<location>file:///C:/Users/Juan%20Pablo/Downloads/DAM/Programacion/RetoDiciembre/RetoDiciembreVLC/songs/NokiaEspionage.mp3</location>
 			<duration>25584</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>13</vlc:id>
+				<vlc:id>14</vlc:id>
 				<vlc:option>file-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -120,7 +127,7 @@
 			<location>file:///C:/Users/Juan%20Pablo/Downloads/DAM/Programacion/RetoDiciembre/RetoDiciembreVLC/songs/PuaPuaPuaaPiPiPiPi.mp3</location>
 			<duration>38832</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>14</vlc:id>
+				<vlc:id>15</vlc:id>
 				<vlc:option>file-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -128,7 +135,7 @@
 			<location>file:///C:/Users/Juan%20Pablo/Downloads/DAM/Programacion/RetoDiciembre/RetoDiciembreVLC/songs/RedSunInTheSky.mp3</location>
 			<duration>90024</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>15</vlc:id>
+				<vlc:id>16</vlc:id>
 				<vlc:option>file-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -136,7 +143,7 @@
 			<location>file:///C:/Users/Juan%20Pablo/Downloads/DAM/Programacion/RetoDiciembre/RetoDiciembreVLC/songs/S%C3%ADsifo.mp3</location>
 			<duration>95400</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>16</vlc:id>
+				<vlc:id>17</vlc:id>
 				<vlc:option>file-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -144,7 +151,7 @@
 			<location>file:///C:/Users/Juan%20Pablo/Downloads/DAM/Programacion/RetoDiciembre/RetoDiciembreVLC/songs/SaulGoodman.mp3</location>
 			<duration>15552</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>17</vlc:id>
+				<vlc:id>18</vlc:id>
 				<vlc:option>file-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -153,7 +160,7 @@
 			<title>SaveTube.App - mi mente solo piensa en ese vídeo cuando suena este temazo 🥵</title>
 			<duration>132272</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>18</vlc:id>
+				<vlc:id>19</vlc:id>
 				<vlc:option>file-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -161,7 +168,7 @@
 			<location>file:///C:/Users/Juan%20Pablo/Downloads/DAM/Programacion/RetoDiciembre/RetoDiciembreVLC/songs/WebiWabo.mp3</location>
 			<duration>161928</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>19</vlc:id>
+				<vlc:id>20</vlc:id>
 				<vlc:option>file-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -187,5 +194,6 @@
 		<vlc:item tid="17"/>
 		<vlc:item tid="18"/>
 		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
 	</extension>
 </playlist>

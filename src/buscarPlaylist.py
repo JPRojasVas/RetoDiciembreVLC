@@ -15,3 +15,4 @@ def playlist():
         locations.append(location)
 
     return locations
+print(playlist())
