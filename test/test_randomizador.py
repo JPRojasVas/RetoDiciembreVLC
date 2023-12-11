@@ -1,4 +1,4 @@
-from ..src.randomizadorPlaylist import playListRandomizada
+from src.randomizadorPlaylist import playListRandomizada
 
 def test_longitudPlaylist():
     lista_original = ["cancion1.mp3", "cancion2.mp3", "cancion3.mp3"]
