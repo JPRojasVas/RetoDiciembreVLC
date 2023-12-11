@@ -3,7 +3,8 @@ from randomizadorPlaylist import playListRandomizada
 from buscarPlaylist import playlist
 
 def openVLC ():
-    vlc=["C:/Program Files (x86)/VideoLAN/VLC/vlc.exe"] + playListRandomizada(playlist())
+    rutaVLC = input('Coloca la ruta del VLC= ')
+    vlc=[rutaVLC] + playListRandomizada(playlist())
     subprocess.Popen(vlc)
     
 openVLC ()
