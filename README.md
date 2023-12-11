@@ -2,10 +2,22 @@
 
 ### Índice
 
-
-
-
-
+- Intoducción
+- Manual de usos
+-   Pre-requisitos
+-   Instalación
+-   Uso
+- Metodología
+-   Uso de Git
+- Descripción técnica
+-   Arquitectura de la aplicación
+-   Diagrama de Uso
+- Implementación
+-   Tecnologías y Herramientas elegidas
+- Coverage
+- Clokify
+- Conclusión
+- Posibles Mejoras
 
 
 ## Introducción
@@ -31,29 +43,29 @@ Como ya mencione antes usaremos como lenguaje de programación Python (versión 
 
 #### Instalar Python.
 
-    Podremos instalar Python desde su [pagina oficial](https://www.python.org/downloads/). Importante añadir el PATH durante la instalación.
+Podremos instalar Python desde su [pagina oficial](https://www.python.org/downloads/). Importante añadir el PATH durante la instalación.
 
 #### Buscamos una carpeta para clonar el directorio.
 
-    Para esto buscamos la tura donde queremos crear el directorio:
+Para esto buscamos la tura donde queremos crear el directorio:
 
 ```bash
 $ cd <ruta donde se quiera crear el directorio >
 ```
 
-    De seguido creamos el directorio:
+De seguido creamos el directorio:
 
 ```bash
 $ mkdir <Nombre del directorio >
 ```
 
-    Hacemos un git clone del proyecto en GitHub:
+Hacemos un git clone del proyecto en GitHub:
 
 ```bash
 $ git clone https://github.com/JPRojasVas/RetoDiciembreVLC.git
 ```
 
-    Y instalamos las dependencias:
+Y instalamos las dependencias:
 
 ```bash
 $ pip install -r requirements.txt
