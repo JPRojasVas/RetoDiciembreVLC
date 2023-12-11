@@ -17,5 +17,3 @@ def test_ListasNoSonIguales():
     lista_copia = lista_original.copy()
     lista_randomizada = playListRandomizada(lista_original)
     assert lista_randomizada != lista_copia, "Error: La lista no se ha randomizado"
-
-
