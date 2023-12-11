@@ -4,16 +4,16 @@
 
 - Intoducción
 - Manual de usos
--   Pre-requisitos
--   Instalación
--   Uso
+    - Pre-requisitos
+    - Instalación
+    - Uso
 - Metodología
--   Uso de Git
+    - Uso de Git
 - Descripción técnica
--   Arquitectura de la aplicación
--   Diagrama de Uso
+    - Arquitectura de la aplicación
+    - Diagrama de Uso
 - Implementación
--   Tecnologías y Herramientas elegidas
+    - Tecnologías y Herramientas elegidas
 - Coverage
 - Clokify
 - Conclusión
