@@ -119,12 +119,14 @@ A continuacion una imagen desde la teminal:
 
 ## Coverage
 
+```
 Name                          Stmts   Miss  Cover
 -------------------------------------------------
 src\randomizadorPlaylist.py       4      0   100%
 test\test_randomizador.py        16      0   100%
 -------------------------------------------------
 TOTAL                            20      0   100%
+```
 
 ## Clokify
 
