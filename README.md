@@ -148,6 +148,6 @@ El dilema de sacar los datos del archivo `.xspf` fue un reto duro de superar, pe
 
 - Refactorización en el codigo (nombres de variables, simplificación,...)
 
-- Uso de Markdown
+- Uso de Markers
 
 - Un modulo app.py para un uso mas sencillo del programa
