@@ -119,9 +119,12 @@ A continuacion una imagen desde la teminal:
 
 ## Coverage
 
-En el coverage solo se muestra el uso del codigo en el modulo `randomizadorPlaylist.py` porque en el modulo `openVLC.py` uso programación por contrato y en el modulo `buscarPlaylist.py` uso un imput por lo cual no encontre manera de colocar casos test.
-
-![Coverage](img/Coverage.png)
+Name                          Stmts   Miss  Cover
+-------------------------------------------------
+src\randomizadorPlaylist.py       4      0   100%
+test\test_randomizador.py        16      0   100%
+-------------------------------------------------
+TOTAL                            20      0   100%
 
 ## Clokify
 
