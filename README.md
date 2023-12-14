@@ -130,9 +130,9 @@ TOTAL                            20      0   100%
 
 ## Clokify
 
-El tiempo estimado que me llevo hacer este proyecto se estima entre las `20 horas`
+El tiempo estimado que me llevo hacer este proyecto se estima entre las `26 horas`
 
-IMAGEN CLOKIFY
+![Clokify](img/Clokify.png)
 
 ## Conclusión
 
